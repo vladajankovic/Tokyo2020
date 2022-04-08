@@ -1,0 +1,867 @@
+
+{
+    "_id" : ObjectId("6150543467e3a13244f0a4fb"),
+    "ime" : "Elaine",
+    "prezime" : "Thompson",
+    "pol" : "zenski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150544567e3a13244f0a4fc"),
+    "ime" : "Usain",
+    "prezime" : "Bolt",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150545e67e3a13244f0a4fd"),
+    "ime" : "Elaine",
+    "prezime" : "Thompson",
+    "pol" : "zenski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "200m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150547a67e3a13244f0a4fe"),
+    "ime" : "Usain",
+    "prezime" : "Bolt",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "200m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150549f67e3a13244f0a4ff"),
+    "ime" : "Asafa",
+    "prezime" : "Powell",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615054aa67e3a13244f0a500"),
+    "ime" : "Yohan",
+    "prezime" : "Blake",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615054ba67e3a13244f0a501"),
+    "ime" : "Usain",
+    "prezime" : "Bolt",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615054e767e3a13244f0a502"),
+    "ime" : "Nickel",
+    "prezime" : "Ashmeade",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150555067e3a13244f0a503"),
+    "ime" : "Yohan",
+    "prezime" : "Blake",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("6150555f67e3a13244f0a504"),
+    "ime" : "Yohan",
+    "prezime" : "Blake",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "200m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("6150557367e3a13244f0a505"),
+    "ime" : "Nickel",
+    "prezime" : "Ashmeade",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "200m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("615055a567e3a13244f0a506"),
+    "ime" : "Asafa",
+    "prezime" : "Powell",
+    "pol" : "muski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("6150570367e3a13244f0a508"),
+    "ime" : "Ryota",
+    "prezime" : "Yamagata",
+    "pol" : "muski",
+    "drzava" : "Japan",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("6150571767e3a13244f0a509"),
+    "ime" : "Shota",
+    "prezime" : "Izuka",
+    "pol" : "muski",
+    "drzava" : "Japan",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("6150572b67e3a13244f0a50a"),
+    "ime" : "Yoshide",
+    "prezime" : "Kiryu",
+    "pol" : "muski",
+    "drzava" : "Japan",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("6150573c67e3a13244f0a50b"),
+    "ime" : "Asuka",
+    "prezime" : "Tite",
+    "pol" : "muski",
+    "drzava" : "Japan",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("6150578c67e3a13244f0a50d"),
+    "ime" : "Shelly",
+    "prezime" : "Pryce",
+    "pol" : "zenski",
+    "drzava" : "Jamajka",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("615058b367e3a13244f0a50e"),
+    "ime" : "Caleb",
+    "prezime" : "Dressel",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("6150593ad19798a99a355bfa"),
+    "ime" : "Kristof",
+    "prezime" : "Malik",
+    "pol" : "muski",
+    "drzava" : "Mađarska",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("61505970d19798a99a355c10"),
+    "ime" : "Noe",
+    "prezime" : "Ponti",
+    "pol" : "muski",
+    "drzava" : "Švajcarska",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("6150598ad19798a99a355c1e"),
+    "ime" : "Andrei",
+    "prezime" : "Minakov",
+    "pol" : "muski",
+    "drzava" : "Rusija",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("615059b1d19798a99a355c2d"),
+    "ime" : "Milorad",
+    "prezime" : "Čavić",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "zlato",
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("615059cfd19798a99a355c3f"),
+    "ime" : "Michael",
+    "prezime" : "Phelps",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "srebro",
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("615059ead19798a99a355c49"),
+    "ime" : "Cesar",
+    "prezime" : "Cielo",
+    "pol" : "muski",
+    "drzava" : "Brazil",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("61505a12d19798a99a355c61"),
+    "ime" : "Chad",
+    "prezime" : "LeClos",
+    "pol" : "muski",
+    "drzava" : "Južnoafrička Republika",
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "tim" : false,
+    "osvojio" : "bronza",
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("61505a4cd19798a99a355c82"),
+    "ime" : "Milorad",
+    "prezime" : "Čavić",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("61505a5fd19798a99a355c8a"),
+    "ime" : "Velimir",
+    "prezime" : "Stjepanović",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "tim" : false,
+    "osvojio" : "bronza",
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("61505a91d19798a99a355ca3"),
+    "ime" : "Ivan",
+    "prezime" : "Popovici",
+    "pol" : "muski",
+    "drzava" : "Rumunija",
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("61505ab2d19798a99a355cbe"),
+    "ime" : "Fabio",
+    "prezime" : "Ficherr",
+    "pol" : "muski",
+    "drzava" : "Brazil",
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "tim" : false,
+    "osvojio" : "zlato",
+    "__v" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("61505b0ed19798a99a355ceb"),
+    "ime" : "Duncan",
+    "prezime" : "Scott",
+    "pol" : "muski",
+    "drzava" : "Velika Britanija",
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "tim" : false,
+    "osvojio" : "srebro",
+    "__v" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("61505b24d19798a99a355cfb"),
+    "ime" : "Tim",
+    "prezime" : "Dean",
+    "pol" : "muski",
+    "drzava" : "Velika Britanija",
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("61505d7ed19798a99a355e3d"),
+    "ime" : "Miloš",
+    "prezime" : "Sebic",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "tim" : false,
+    "osvojio" : "zlato",
+    "__v" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("61505dc1d19798a99a355e5c"),
+    "ime" : "Chin",
+    "prezime" : "Zhang",
+    "pol" : "muski",
+    "drzava" : "Kina",
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "tim" : false,
+    "osvojio" : "srebro",
+    "__v" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("61505dfbd19798a99a355e72"),
+    "ime" : "Sergei",
+    "prezime" : "Kamenskiy",
+    "pol" : "muski",
+    "drzava" : "Rusija",
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("61505e13d19798a99a355e7a"),
+    "ime" : "Jan",
+    "prezime" : "Hegg",
+    "pol" : "muski",
+    "drzava" : "Norveška",
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "tim" : false,
+    "osvojio" : "bronza",
+    "__v" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("61505e34d19798a99a355e87"),
+    "ime" : "Pavle",
+    "prezime" : "Gorša",
+    "pol" : "muski",
+    "drzava" : "Hrvatska",
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("61505e53d19798a99a355e91"),
+    "ime" : "Miloš",
+    "prezime" : "Maričić",
+    "pol" : "muski",
+    "drzava" : "Hrvatska",
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("61507277d19798a99a356695"),
+    "ime" : "Novak",
+    "prezime" : "Djoković",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("6150728cd19798a99a3566a4"),
+    "ime" : "Kei",
+    "prezime" : "Nishikori",
+    "pol" : "muski",
+    "drzava" : "Japan",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("615072b1d19798a99a3566b0"),
+    "ime" : "Alexander",
+    "prezime" : "Zverev",
+    "pol" : "muski",
+    "drzava" : "Nemačka",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("615072c4d19798a99a3566bd"),
+    "ime" : "Jeremy",
+    "prezime" : "Chardy",
+    "pol" : "muski",
+    "drzava" : "Francuska",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("615072ddd19798a99a3566d0"),
+    "ime" : "Danil",
+    "prezime" : "Medvedev",
+    "pol" : "muski",
+    "drzava" : "Rusija",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("61507301d19798a99a3566e0"),
+    "ime" : "Pablo",
+    "prezime" : "Carreno",
+    "pol" : "muski",
+    "drzava" : "Španija",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("61507354d19798a99a35670f"),
+    "ime" : "Karen",
+    "prezime" : "Khachanov",
+    "pol" : "muski",
+    "drzava" : "Rusija",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("61507368d19798a99a35671a"),
+    "ime" : "Ugo",
+    "prezime" : "Humbert",
+    "pol" : "muski",
+    "drzava" : "Francuska",
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("6150779d67e3a13244f0a523"),
+    "ime" : "Tyson",
+    "prezime" : "Gay",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("615077af67e3a13244f0a524"),
+    "ime" : "Justin",
+    "prezime" : "Gatling",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("615077c767e3a13244f0a525"),
+    "ime" : "Tim",
+    "prezime" : "Cook",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("615077d567e3a13244f0a526"),
+    "ime" : "Tyson",
+    "prezime" : "Gay",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("615077e367e3a13244f0a527"),
+    "ime" : "Justin",
+    "prezime" : "Gatling",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("615077f267e3a13244f0a528"),
+    "ime" : "Jack",
+    "prezime" : "Stone",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("6150783167e3a13244f0a52a"),
+    "ime" : "Andre",
+    "prezime" : "DeGrass",
+    "pol" : "muski",
+    "drzava" : "Kanada",
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "tim" : false,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("6150791e67e3a13244f0a52d"),
+    "ime" : "Nikola",
+    "prezime" : "Jokic",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("6150792a67e3a13244f0a52e"),
+    "ime" : "Nemanja",
+    "prezime" : "Bjelica",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("6150793867e3a13244f0a52f"),
+    "ime" : "Milos",
+    "prezime" : "Teodosic",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("6150794267e3a13244f0a530"),
+    "ime" : "Ivan",
+    "prezime" : "Jovic",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("6150795467e3a13244f0a531"),
+    "ime" : "Boban",
+    "prezime" : "Marijanovic",
+    "pol" : "muski",
+    "drzava" : "Srbija",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("6150799767e3a13244f0a533"),
+    "ime" : "Lebron",
+    "prezime" : "James",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("615079a267e3a13244f0a534"),
+    "ime" : "Andre",
+    "prezime" : "Drummon",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("615079ae67e3a13244f0a535"),
+    "ime" : "Paul",
+    "prezime" : "George",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("615079b767e3a13244f0a536"),
+    "ime" : "Paul",
+    "prezime" : "Pierce",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("615079e067e3a13244f0a537"),
+    "ime" : "Blake",
+    "prezime" : "Griffin",
+    "pol" : "muski",
+    "drzava" : "Sjedinjene Američke Države",
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "tim" : true,
+    "osvojio" : "",
+    "__v" : 0
+}

@@ -1,0 +1,1939 @@
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c296"),
+    "naziv" : "Albanija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c299"),
+    "naziv" : "Alžir",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c29c"),
+    "naziv" : "Andora",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c29f"),
+    "naziv" : "Angola",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2a2"),
+    "naziv" : "Antigva i Barbuda",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2a5"),
+    "naziv" : "Argentina",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2a8"),
+    "naziv" : "Australija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2ab"),
+    "naziv" : "Austrija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2ae"),
+    "naziv" : "Avganistan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2b1"),
+    "naziv" : "Azerbejdžan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2b4"),
+    "naziv" : "Bahami",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2b7"),
+    "naziv" : "Bahrein",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2ba"),
+    "naziv" : "Bangladeš",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2bd"),
+    "naziv" : "Barbados",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2c0"),
+    "naziv" : "Belgija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2c3"),
+    "naziv" : "Belize",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2c6"),
+    "naziv" : "Belorusija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2c9"),
+    "naziv" : "Benin",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2cc"),
+    "naziv" : "Bocvana",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2cf"),
+    "naziv" : "Bolivija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2d2"),
+    "naziv" : "Bosna i Hercegovina",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2d5"),
+    "naziv" : "Brazil",
+    "z" : 1,
+    "s" : 0,
+    "b" : 0,
+    "u" : 1
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2d8"),
+    "naziv" : "Brunej",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2db"),
+    "naziv" : "Bugarska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2de"),
+    "naziv" : "Burkina Faso",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2e1"),
+    "naziv" : "Burundi",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2e4"),
+    "naziv" : "Butan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2e7"),
+    "naziv" : "Centralnoafrička republika",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2ea"),
+    "naziv" : "Crna Gora",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2ed"),
+    "naziv" : "Čad",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2f0"),
+    "naziv" : "Češka",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2f3"),
+    "naziv" : "Čile",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2f6"),
+    "naziv" : "Danska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2f9"),
+    "naziv" : "Dominika",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2fc"),
+    "naziv" : "Dominikanska Republika",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c2ff"),
+    "naziv" : "DR Kongo",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c302"),
+    "naziv" : "Džibuti",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c305"),
+    "naziv" : "Egipat",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c308"),
+    "naziv" : "Ekvador",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c30b"),
+    "naziv" : "Ekvatorijalna Gvineja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c30e"),
+    "naziv" : "El Salvador",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c311"),
+    "naziv" : "Eritreja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c314"),
+    "naziv" : "Estonija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c317"),
+    "naziv" : "Etiopija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c31a"),
+    "naziv" : "Fidži",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c31d"),
+    "naziv" : "Filipini",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c320"),
+    "naziv" : "Finska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c323"),
+    "naziv" : "Francuska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c326"),
+    "naziv" : "Gabon",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c329"),
+    "naziv" : "Gambija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c32c"),
+    "naziv" : "Gana",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c32f"),
+    "naziv" : "Grčka",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c332"),
+    "naziv" : "Grenada",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c335"),
+    "naziv" : "Gruzija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c338"),
+    "naziv" : "Gvajana",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c33b"),
+    "naziv" : "Gvatemala",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c33e"),
+    "naziv" : "Gvineja Bisau",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c341"),
+    "naziv" : "Gvineja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c344"),
+    "naziv" : "Haiti",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c347"),
+    "naziv" : "Holandija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c34a"),
+    "naziv" : "Honduras",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c34d"),
+    "naziv" : "Hrvatska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 63 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c350"),
+    "naziv" : "Indija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 64 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c353"),
+    "naziv" : "Indonezija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 65 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c356"),
+    "naziv" : "Irak",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 66 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c359"),
+    "naziv" : "Iran",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 67 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c35c"),
+    "naziv" : "Irska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 68 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c35f"),
+    "naziv" : "Island",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 69 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c362"),
+    "naziv" : "Istočni Timor",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 70 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c365"),
+    "naziv" : "Italija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 71 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c368"),
+    "naziv" : "Izrael",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 72 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c36b"),
+    "naziv" : "Jamajka",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 73 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c36e"),
+    "naziv" : "Japan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 74 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c371"),
+    "naziv" : "Jemen",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 75 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c374"),
+    "naziv" : "Jermenija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 76 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c377"),
+    "naziv" : "Jordan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 77 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c37a"),
+    "naziv" : "Južna Koreja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 78 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c37d"),
+    "naziv" : "Južni Sudan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 79 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c380"),
+    "naziv" : "Južnoafrička Republika",
+    "z" : 0,
+    "s" : 0,
+    "b" : 1,
+    "u" : 1
+}
+
+/* 80 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c383"),
+    "naziv" : "Kambodža",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 81 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c386"),
+    "naziv" : "Kamerun",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 82 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c389"),
+    "naziv" : "Kanada",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 83 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c38c"),
+    "naziv" : "Katar",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 84 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c38f"),
+    "naziv" : "Kazahstan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 85 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c392"),
+    "naziv" : "Kenija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 86 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c395"),
+    "naziv" : "Kina",
+    "z" : 0,
+    "s" : 1,
+    "b" : 0,
+    "u" : 1
+}
+
+/* 87 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c398"),
+    "naziv" : "Kipar",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 88 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c39b"),
+    "naziv" : "Kirgistan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 89 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c39e"),
+    "naziv" : "Kiribati",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 90 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3a1"),
+    "naziv" : "Kolumbija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 91 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3a4"),
+    "naziv" : "Komori",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 92 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3a7"),
+    "naziv" : "Kongo",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 93 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3aa"),
+    "naziv" : "Kostarika",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 94 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3ad"),
+    "naziv" : "Kuba",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 95 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3b0"),
+    "naziv" : "Kuvajt",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 96 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3b3"),
+    "naziv" : "Laos",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 97 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3b6"),
+    "naziv" : "Leban",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 98 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3b9"),
+    "naziv" : "Lesoto",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 99 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3bc"),
+    "naziv" : "Letonija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 100 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3bf"),
+    "naziv" : "Liberija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 101 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3c2"),
+    "naziv" : "Libija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 102 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3c5"),
+    "naziv" : "Lihtenštajn",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 103 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3c8"),
+    "naziv" : "Litvanija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 104 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3cb"),
+    "naziv" : "Luksemburg",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 105 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3ce"),
+    "naziv" : "Madagaskar",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 106 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3d1"),
+    "naziv" : "Mađarska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 107 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3d4"),
+    "naziv" : "Malavi",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 108 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3d7"),
+    "naziv" : "Maldivi",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 109 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3da"),
+    "naziv" : "Malezija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 110 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3dd"),
+    "naziv" : "Mali",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 111 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3e0"),
+    "naziv" : "Malta",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 112 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3e3"),
+    "naziv" : "Maroko",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 113 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3e6"),
+    "naziv" : "Maršalova ostrva",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 114 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3e9"),
+    "naziv" : "Mauricijus",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 115 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3ec"),
+    "naziv" : "Mauritanija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 116 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3ef"),
+    "naziv" : "Meksiko",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 117 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3f2"),
+    "naziv" : "Mijanmar",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 118 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3f5"),
+    "naziv" : "Mikronezija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 119 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3f8"),
+    "naziv" : "Moldavija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 120 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3fb"),
+    "naziv" : "Monako",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 121 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c3fe"),
+    "naziv" : "Mongolija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 122 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c401"),
+    "naziv" : "Mozambija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 123 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c404"),
+    "naziv" : "Namibija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 124 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c407"),
+    "naziv" : "Nauru",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 125 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c40a"),
+    "naziv" : "Nemačka",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 126 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c40d"),
+    "naziv" : "Nepal",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 127 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c410"),
+    "naziv" : "Niger",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 128 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c413"),
+    "naziv" : "Nigerija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 129 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c416"),
+    "naziv" : "Nikaragva",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 130 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c419"),
+    "naziv" : "Norveška",
+    "z" : 0,
+    "s" : 0,
+    "b" : 1,
+    "u" : 1
+}
+
+/* 131 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c41c"),
+    "naziv" : "Novi Zeland",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 132 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c41f"),
+    "naziv" : "Obala Slonovače",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 133 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c422"),
+    "naziv" : "Oman",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 134 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c425"),
+    "naziv" : "Pakistan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 135 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c428"),
+    "naziv" : "Palau",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 136 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c42b"),
+    "naziv" : "Palestina",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 137 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c42e"),
+    "naziv" : "Panama",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 138 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c431"),
+    "naziv" : "Papua Nova Gvineja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 139 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c434"),
+    "naziv" : "Paragvaj",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 140 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c437"),
+    "naziv" : "Peru",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 141 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c43a"),
+    "naziv" : "Poljska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 142 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c43d"),
+    "naziv" : "Portugal",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 143 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c440"),
+    "naziv" : "Ruanda",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 144 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c443"),
+    "naziv" : "Rumunuja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 145 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c446"),
+    "naziv" : "Rusija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 146 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c449"),
+    "naziv" : "Samoa",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 147 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c44c"),
+    "naziv" : "San Marino",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 148 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c44f"),
+    "naziv" : "Sao Tome i Principe",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 149 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c452"),
+    "naziv" : "Saudijska Arabija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 150 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c455"),
+    "naziv" : "Seint Kits i Nevis",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 151 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c458"),
+    "naziv" : "Sejšeli",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 152 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c45b"),
+    "naziv" : "Senegal",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 153 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c45e"),
+    "naziv" : "Severna Koreja",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 154 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c461"),
+    "naziv" : "Severna Makedonija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 155 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c464"),
+    "naziv" : "Sijera Leone",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 156 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c467"),
+    "naziv" : "Singapur",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 157 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c46a"),
+    "naziv" : "Sirija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 158 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c46d"),
+    "naziv" : "Sjedinjene Američke Države",
+    "z" : 0,
+    "s" : 1,
+    "b" : 0,
+    "u" : 1
+}
+
+/* 159 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c470"),
+    "naziv" : "Slovačka",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 160 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c473"),
+    "naziv" : "Slovenija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 161 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c476"),
+    "naziv" : "Solomonska Ostrva",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 162 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c479"),
+    "naziv" : "Somalija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 163 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c47c"),
+    "naziv" : "Srbija",
+    "z" : 2,
+    "s" : 0,
+    "b" : 1,
+    "u" : 3
+}
+
+/* 164 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c47f"),
+    "naziv" : "Sudan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 165 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c482"),
+    "naziv" : "Surinam",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 166 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c485"),
+    "naziv" : "Svazilend",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 167 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c488"),
+    "naziv" : "Sveta Lucija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 168 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c48b"),
+    "naziv" : "Sveti Vincent i Grenadini",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 169 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c48e"),
+    "naziv" : "Španija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 170 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c491"),
+    "naziv" : "Šri Lanka",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 171 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c494"),
+    "naziv" : "Švajcarska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 172 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c497"),
+    "naziv" : "Švedska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 173 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c49a"),
+    "naziv" : "Tadžikistan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 174 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c49d"),
+    "naziv" : "Tailand",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 175 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4a0"),
+    "naziv" : "Tanzanija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 176 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4a3"),
+    "naziv" : "Togo",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 177 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4a6"),
+    "naziv" : "Tonga",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 178 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4a9"),
+    "naziv" : "Trinidad i Tobago",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 179 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4ac"),
+    "naziv" : "Tunis",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 180 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4af"),
+    "naziv" : "Turkmenistan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 181 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4b2"),
+    "naziv" : "Turska",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 182 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4b5"),
+    "naziv" : "Tuvalu",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 183 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4b8"),
+    "naziv" : "Uganda",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 184 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4bb"),
+    "naziv" : "Ujedinjeni Arapski Emirati",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 185 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4be"),
+    "naziv" : "Ukrajina",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 186 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4c1"),
+    "naziv" : "Urugvaj",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 187 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4c4"),
+    "naziv" : "Uzbekistan",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 188 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4c7"),
+    "naziv" : "Vanuatu",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 189 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4ca"),
+    "naziv" : "Velika Britanija",
+    "z" : 0,
+    "s" : 1,
+    "b" : 0,
+    "u" : 1
+}
+
+/* 190 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4cd"),
+    "naziv" : "Venecuela",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 191 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4d0"),
+    "naziv" : "Vijetnam",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 192 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4d3"),
+    "naziv" : "Zabmija",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 193 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4d6"),
+    "naziv" : "Zelenortska ostrva",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}
+
+/* 194 */
+{
+    "_id" : ObjectId("613cb8e251a3af8e55c0c4d9"),
+    "naziv" : "Zimbabve",
+    "z" : 0,
+    "s" : 0,
+    "b" : 0,
+    "u" : 0
+}

@@ -1,0 +1,107 @@
+
+{
+    "_id" : ObjectId("61505c7e67e3a13244f0a516"),
+    "nadgledanja" : [ 
+        {
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "pol" : "muski"
+        }, 
+        {
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "pol" : "muski"
+        }
+    ],
+    "korisnicko_ime" : "d4",
+    "ime" : "Delegat",
+    "prezime" : "D",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505c8067e3a13244f0a517"),
+    "nadgledanja" : [ 
+        {
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "pol" : "muski"
+        }, 
+        {
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "pol" : "muski"
+        }
+    ],
+    "korisnicko_ime" : "d1",
+    "ime" : "Delegat",
+    "prezime" : "A",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505c8067e3a13244f0a518"),
+    "nadgledanja" : [ 
+        {
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "pol" : "muski"
+        }, 
+        {
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "pol" : "muski"
+        }, 
+        {
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "pol" : "muski"
+        }
+    ],
+    "korisnicko_ime" : "d2",
+    "ime" : "Delegat",
+    "prezime" : "B",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505c8167e3a13244f0a519"),
+    "nadgledanja" : [],
+    "korisnicko_ime" : "d3",
+    "ime" : "Delegat",
+    "prezime" : "C",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505c8267e3a13244f0a51a"),
+    "nadgledanja" : [],
+    "korisnicko_ime" : "d5",
+    "ime" : "Delegat",
+    "prezime" : "E",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505c8267e3a13244f0a51b"),
+    "nadgledanja" : [],
+    "korisnicko_ime" : "d6",
+    "ime" : "Delegat",
+    "prezime" : "F",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505c8367e3a13244f0a51c"),
+    "nadgledanja" : [],
+    "korisnicko_ime" : "d7",
+    "ime" : "Delegat",
+    "prezime" : "G",
+    "__v" : 0
+}

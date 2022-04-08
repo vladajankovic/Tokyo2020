@@ -1,0 +1,1001 @@
+
+{
+    "_id" : ObjectId("61505cb867e3a13244f0a51d"),
+    "takmicari" : [ 
+        {
+            "_id" : "61505a4cd19798a99a355c82",
+            "ime" : "Milorad",
+            "prezime" : "Čavić",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505a5fd19798a99a355c8a",
+            "ime" : "Velimir",
+            "prezime" : "Stjepanović",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505a91d19798a99a355ca3",
+            "ime" : "Ivan",
+            "prezime" : "Popovici",
+            "pol" : "muski",
+            "drzava" : "Rumunija",
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505ab2d19798a99a355cbe",
+            "ime" : "Fabio",
+            "prezime" : "Ficherr",
+            "pol" : "muski",
+            "drzava" : "Brazil",
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505b0ed19798a99a355ceb",
+            "ime" : "Duncan",
+            "prezime" : "Scott",
+            "pol" : "muski",
+            "drzava" : "Velika Britanija",
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505b24d19798a99a355cfb",
+            "ime" : "Tim",
+            "prezime" : "Dean",
+            "pol" : "muski",
+            "drzava" : "Velika Britanija",
+            "sport" : "Plivanje",
+            "disciplina" : "200m slobodno",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "delegati" : [ 
+        {
+            "nadgledanja" : [],
+            "_id" : "61505c7e67e3a13244f0a516",
+            "korisnicko_ime" : "d4",
+            "ime" : "Delegat",
+            "prezime" : "D",
+            "__v" : 0
+        }
+    ],
+    "grupnafaza" : [],
+    "osminafinala" : [],
+    "cetvrtfinale" : [],
+    "polufinale" : [],
+    "finale" : [ 
+        {
+            "s" : "Fabio Ficherr",
+            "r" : "49.01",
+            "i" : true,
+            "m" : 1
+        }, 
+        {
+            "s" : "Duncan Scott",
+            "r" : "49.05",
+            "i" : true,
+            "m" : 2
+        }, 
+        {
+            "s" : "Velimir Stjepanović",
+            "r" : "50.30",
+            "i" : true,
+            "m" : 3
+        }, 
+        {
+            "s" : "Tim Dean",
+            "r" : "50.35",
+            "i" : true,
+            "m" : 4
+        }, 
+        {
+            "s" : "Milorad Čavić",
+            "r" : "50.69",
+            "i" : true,
+            "m" : 5
+        }, 
+        {
+            "s" : "Ivan Popovici",
+            "r" : "51.40",
+            "i" : true,
+            "m" : 6
+        }
+    ],
+    "sport" : "Plivanje",
+    "disciplina" : "200m slobodno",
+    "pol" : "muski",
+    "datumPocetka" : "07.13",
+    "vremePocetka" : "08:00",
+    "lokacija" : "bazeni",
+    "vrsta" : "individualno",
+    "brojUcesnika" : "8,finale",
+    "formatRez" : "SS,TT",
+    "brojRundi" : 1,
+    "zavrseno" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505cca67e3a13244f0a51e"),
+    "takmicari" : [ 
+        {
+            "_id" : "615058b367e3a13244f0a50e",
+            "ime" : "Caleb",
+            "prezime" : "Dressel",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150593ad19798a99a355bfa",
+            "ime" : "Kristof",
+            "prezime" : "Malik",
+            "pol" : "muski",
+            "drzava" : "Mađarska",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505970d19798a99a355c10",
+            "ime" : "Noe",
+            "prezime" : "Ponti",
+            "pol" : "muski",
+            "drzava" : "Švajcarska",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150598ad19798a99a355c1e",
+            "ime" : "Andrei",
+            "prezime" : "Minakov",
+            "pol" : "muski",
+            "drzava" : "Rusija",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615059b1d19798a99a355c2d",
+            "ime" : "Milorad",
+            "prezime" : "Čavić",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615059cfd19798a99a355c3f",
+            "ime" : "Michael",
+            "prezime" : "Phelps",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615059ead19798a99a355c49",
+            "ime" : "Cesar",
+            "prezime" : "Cielo",
+            "pol" : "muski",
+            "drzava" : "Brazil",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505a12d19798a99a355c61",
+            "ime" : "Chad",
+            "prezime" : "LeClos",
+            "pol" : "muski",
+            "drzava" : "Južnoafrička Republika",
+            "sport" : "Plivanje",
+            "disciplina" : "100m delfin",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "delegati" : [ 
+        {
+            "nadgledanja" : [ 
+                {
+                    "sport" : "Plivanje",
+                    "disciplina" : "200m slobodno",
+                    "pol" : "muski"
+                }
+            ],
+            "_id" : "61505c7e67e3a13244f0a516",
+            "korisnicko_ime" : "d4",
+            "ime" : "Delegat",
+            "prezime" : "D",
+            "__v" : 0
+        }, 
+        {
+            "nadgledanja" : [],
+            "_id" : "61505c8067e3a13244f0a517",
+            "korisnicko_ime" : "d1",
+            "ime" : "Delegat",
+            "prezime" : "A",
+            "__v" : 0
+        }
+    ],
+    "grupnafaza" : [],
+    "osminafinala" : [],
+    "cetvrtfinale" : [],
+    "polufinale" : [],
+    "finale" : [ 
+        {
+            "s" : "Milorad Čavić",
+            "r" : "48.01",
+            "i" : true,
+            "m" : 1
+        }, 
+        {
+            "s" : "Michael Phelps",
+            "r" : "48.05",
+            "i" : true,
+            "m" : 2
+        }, 
+        {
+            "s" : "Chad LeClos",
+            "r" : "48.70",
+            "i" : true,
+            "m" : 3
+        }, 
+        {
+            "s" : "Cesar Cielo",
+            "r" : "49.33",
+            "i" : true,
+            "m" : 4
+        }, 
+        {
+            "s" : "Noe Ponti",
+            "r" : "49.43",
+            "i" : true,
+            "m" : 5
+        }, 
+        {
+            "s" : "Caleb Dressel",
+            "r" : "49.50",
+            "i" : true,
+            "m" : 6
+        }, 
+        {
+            "s" : "Kristof Malik",
+            "r" : "49.90",
+            "i" : true,
+            "m" : 7
+        }, 
+        {
+            "s" : "Andrei Minakov",
+            "r" : "50.04",
+            "i" : true,
+            "m" : 8
+        }
+    ],
+    "sport" : "Plivanje",
+    "disciplina" : "100m delfin",
+    "pol" : "muski",
+    "datumPocetka" : "07.12",
+    "vremePocetka" : "08:00",
+    "lokacija" : "bazeni",
+    "vrsta" : "individualno",
+    "brojUcesnika" : "8,finale",
+    "formatRez" : "SS,TT",
+    "brojRundi" : 1,
+    "zavrseno" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61505e7067e3a13244f0a51f"),
+    "takmicari" : [ 
+        {
+            "_id" : "61505d7ed19798a99a355e3d",
+            "ime" : "Miloš",
+            "prezime" : "Sebic",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505dc1d19798a99a355e5c",
+            "ime" : "Chin",
+            "prezime" : "Zhang",
+            "pol" : "muski",
+            "drzava" : "Kina",
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505dfbd19798a99a355e72",
+            "ime" : "Sergei",
+            "prezime" : "Kamenskiy",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505e13d19798a99a355e7a",
+            "ime" : "Jan",
+            "prezime" : "Hegg",
+            "pol" : "muski",
+            "drzava" : "Norveška",
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505e34d19798a99a355e87",
+            "ime" : "Pavle",
+            "prezime" : "Gorša",
+            "pol" : "muski",
+            "drzava" : "Hrvatska",
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61505e53d19798a99a355e91",
+            "ime" : "Miloš",
+            "prezime" : "Maričić",
+            "pol" : "muski",
+            "drzava" : "Hrvatska",
+            "sport" : "Streljaštvo",
+            "disciplina" : "50m trostav",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "delegati" : [ 
+        {
+            "nadgledanja" : [ 
+                {
+                    "sport" : "Plivanje",
+                    "disciplina" : "100m delfin",
+                    "pol" : "muski"
+                }
+            ],
+            "_id" : "61505c8067e3a13244f0a517",
+            "korisnicko_ime" : "d1",
+            "ime" : "Delegat",
+            "prezime" : "A",
+            "__v" : 0
+        }
+    ],
+    "grupnafaza" : [],
+    "osminafinala" : [],
+    "cetvrtfinale" : [],
+    "polufinale" : [],
+    "finale" : [ 
+        {
+            "s" : "Miloš Sebic",
+            "r" : "65",
+            "i" : true,
+            "m" : 1
+        }, 
+        {
+            "s" : "Chin Zhang",
+            "r" : "58",
+            "i" : true,
+            "m" : 2
+        }, 
+        {
+            "s" : "Jan Hegg",
+            "r" : "57",
+            "i" : true,
+            "m" : 3
+        }, 
+        {
+            "s" : "Pavle Gorša",
+            "r" : "56",
+            "i" : true,
+            "m" : 4
+        }, 
+        {
+            "s" : "Miloš Maričić",
+            "r" : "58",
+            "i" : true,
+            "m" : 5
+        }, 
+        {
+            "s" : "Sergei Kamenskiy",
+            "r" : "54",
+            "i" : true,
+            "m" : 6
+        }
+    ],
+    "sport" : "Streljaštvo",
+    "disciplina" : "50m trostav",
+    "pol" : "muski",
+    "datumPocetka" : "07.12",
+    "vremePocetka" : "08:00",
+    "lokacija" : "Dvorana",
+    "vrsta" : "individualno",
+    "brojUcesnika" : "8,finale",
+    "formatRez" : "poeni",
+    "brojRundi" : 6,
+    "zavrseno" : true,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615073ed67e3a13244f0a520"),
+    "takmicari" : [ 
+        {
+            "_id" : "61507277d19798a99a356695",
+            "ime" : "Novak",
+            "prezime" : "Djoković",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150728cd19798a99a3566a4",
+            "ime" : "Kei",
+            "prezime" : "Nishikori",
+            "pol" : "muski",
+            "drzava" : "Japan",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615072b1d19798a99a3566b0",
+            "ime" : "Alexander",
+            "prezime" : "Zverev",
+            "pol" : "muski",
+            "drzava" : "Nemačka",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615072c4d19798a99a3566bd",
+            "ime" : "Jeremy",
+            "prezime" : "Chardy",
+            "pol" : "muski",
+            "drzava" : "Francuska",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615072ddd19798a99a3566d0",
+            "ime" : "Danil",
+            "prezime" : "Medvedev",
+            "pol" : "muski",
+            "drzava" : "Rusija",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61507301d19798a99a3566e0",
+            "ime" : "Pablo",
+            "prezime" : "Carreno",
+            "pol" : "muski",
+            "drzava" : "Španija",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61507354d19798a99a35670f",
+            "ime" : "Karen",
+            "prezime" : "Khachanov",
+            "pol" : "muski",
+            "drzava" : "Rusija",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "61507368d19798a99a35671a",
+            "ime" : "Ugo",
+            "prezime" : "Humbert",
+            "pol" : "muski",
+            "drzava" : "Francuska",
+            "sport" : "Tenis",
+            "disciplina" : "singl",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "delegati" : [ 
+        {
+            "nadgledanja" : [],
+            "_id" : "61505c8067e3a13244f0a518",
+            "korisnicko_ime" : "d2",
+            "ime" : "Delegat",
+            "prezime" : "B",
+            "__v" : 0
+        }
+    ],
+    "grupnafaza" : [],
+    "osminafinala" : [],
+    "cetvrtfinale" : [],
+    "polufinale" : [],
+    "finale" : [],
+    "sport" : "Tenis",
+    "disciplina" : "singl",
+    "pol" : "muski",
+    "datumPocetka" : "",
+    "vremePocetka" : "",
+    "lokacija" : "",
+    "vrsta" : "individualno",
+    "brojUcesnika" : "8,tenis",
+    "formatRez" : "2:X",
+    "brojRundi" : 1,
+    "zavrseno" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150784f67e3a13244f0a52b"),
+    "takmicari" : [ 
+        {
+            "_id" : "6150544567e3a13244f0a4fc",
+            "ime" : "Usain",
+            "prezime" : "Bolt",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150555067e3a13244f0a503",
+            "ime" : "Yohan",
+            "prezime" : "Blake",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615055a567e3a13244f0a506",
+            "ime" : "Asafa",
+            "prezime" : "Powell",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150779d67e3a13244f0a523",
+            "ime" : "Tyson",
+            "prezime" : "Gay",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615077af67e3a13244f0a524",
+            "ime" : "Justin",
+            "prezime" : "Gatling",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150783167e3a13244f0a52a",
+            "ime" : "Andre",
+            "prezime" : "DeGrass",
+            "pol" : "muski",
+            "drzava" : "Kanada",
+            "sport" : "Atletika",
+            "disciplina" : "100m trčanje",
+            "tim" : false,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "delegati" : [ 
+        {
+            "nadgledanja" : [ 
+                {
+                    "sport" : "Tenis",
+                    "disciplina" : "singl",
+                    "pol" : "muski"
+                }
+            ],
+            "_id" : "61505c8067e3a13244f0a518",
+            "korisnicko_ime" : "d2",
+            "ime" : "Delegat",
+            "prezime" : "B",
+            "__v" : 0
+        }
+    ],
+    "grupnafaza" : [],
+    "osminafinala" : [],
+    "cetvrtfinale" : [],
+    "polufinale" : [],
+    "finale" : [ 
+        {
+            "s" : "Usain Bolt",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Yohan Blake",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Justin Gatling",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Andre DeGrass",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Asafa Powell",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Tyson Gay",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }
+    ],
+    "sport" : "Atletika",
+    "disciplina" : "100m trčanje",
+    "pol" : "muski",
+    "datumPocetka" : "",
+    "vremePocetka" : "",
+    "lokacija" : "",
+    "vrsta" : "individualno",
+    "brojUcesnika" : "8,finale",
+    "formatRez" : "SS,TT",
+    "brojRundi" : 1,
+    "zavrseno" : false,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615078c267e3a13244f0a52c"),
+    "takmicari" : [ 
+        {
+            "tim" : [ 
+                {
+                    "_id" : "6150549f67e3a13244f0a4ff",
+                    "ime" : "Asafa",
+                    "prezime" : "Powell",
+                    "pol" : "muski",
+                    "drzava" : "Jamajka",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "615054e767e3a13244f0a502",
+                    "ime" : "Nickel",
+                    "prezime" : "Ashmeade",
+                    "pol" : "muski",
+                    "drzava" : "Jamajka",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "615054ba67e3a13244f0a501",
+                    "ime" : "Usain",
+                    "prezime" : "Bolt",
+                    "pol" : "muski",
+                    "drzava" : "Jamajka",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "615054aa67e3a13244f0a500",
+                    "ime" : "Yohan",
+                    "prezime" : "Blake",
+                    "pol" : "muski",
+                    "drzava" : "Jamajka",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }
+            ],
+            "_id" : "6150565067e3a13244f0a507",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "drzava" : "Jamajka",
+            "pol" : "muski",
+            "__v" : 0
+        }, 
+        {
+            "tim" : [ 
+                {
+                    "_id" : "6150573c67e3a13244f0a50b",
+                    "ime" : "Asuka",
+                    "prezime" : "Tite",
+                    "pol" : "muski",
+                    "drzava" : "Japan",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "6150570367e3a13244f0a508",
+                    "ime" : "Ryota",
+                    "prezime" : "Yamagata",
+                    "pol" : "muski",
+                    "drzava" : "Japan",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "6150571767e3a13244f0a509",
+                    "ime" : "Shota",
+                    "prezime" : "Izuka",
+                    "pol" : "muski",
+                    "drzava" : "Japan",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "6150572b67e3a13244f0a50a",
+                    "ime" : "Yoshide",
+                    "prezime" : "Kiryu",
+                    "pol" : "muski",
+                    "drzava" : "Japan",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }
+            ],
+            "_id" : "6150574267e3a13244f0a50c",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "drzava" : "Japan",
+            "pol" : "muski",
+            "__v" : 0
+        }, 
+        {
+            "tim" : [ 
+                {
+                    "_id" : "615077f267e3a13244f0a528",
+                    "ime" : "Jack",
+                    "prezime" : "Stone",
+                    "pol" : "muski",
+                    "drzava" : "Sjedinjene Američke Države",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "615077e367e3a13244f0a527",
+                    "ime" : "Justin",
+                    "prezime" : "Gatling",
+                    "pol" : "muski",
+                    "drzava" : "Sjedinjene Američke Države",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "615077c767e3a13244f0a525",
+                    "ime" : "Tim",
+                    "prezime" : "Cook",
+                    "pol" : "muski",
+                    "drzava" : "Sjedinjene Američke Države",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }, 
+                {
+                    "_id" : "615077d567e3a13244f0a526",
+                    "ime" : "Tyson",
+                    "prezime" : "Gay",
+                    "pol" : "muski",
+                    "drzava" : "Sjedinjene Američke Države",
+                    "sport" : "Atletika",
+                    "disciplina" : "4x100m štafetno trčanje",
+                    "tim" : true,
+                    "osvojio" : "",
+                    "__v" : 0
+                }
+            ],
+            "_id" : "615077fa67e3a13244f0a529",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "drzava" : "Sjedinjene Američke Države",
+            "pol" : "muski",
+            "__v" : 0
+        }
+    ],
+    "delegati" : [ 
+        {
+            "nadgledanja" : [ 
+                {
+                    "sport" : "Tenis",
+                    "disciplina" : "singl",
+                    "pol" : "muski"
+                }, 
+                {
+                    "sport" : "Atletika",
+                    "disciplina" : "100m trčanje",
+                    "pol" : "muski"
+                }
+            ],
+            "_id" : "61505c8067e3a13244f0a518",
+            "korisnicko_ime" : "d2",
+            "ime" : "Delegat",
+            "prezime" : "B",
+            "__v" : 0
+        }
+    ],
+    "grupnafaza" : [],
+    "osminafinala" : [],
+    "cetvrtfinale" : [],
+    "polufinale" : [],
+    "finale" : [ 
+        {
+            "s" : "Jamajka",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Japan",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }, 
+        {
+            "s" : "Sjedinjene Američke Države",
+            "r" : "",
+            "i" : false,
+            "m" : 0
+        }
+    ],
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "pol" : "muski",
+    "datumPocetka" : "",
+    "vremePocetka" : "",
+    "lokacija" : "",
+    "vrsta" : "ekipno",
+    "brojUcesnika" : "8,finale",
+    "formatRez" : "MM:SS,TT",
+    "brojRundi" : 1,
+    "zavrseno" : false,
+    "__v" : 0
+}

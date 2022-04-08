@@ -1,0 +1,323 @@
+
+{
+    "_id" : ObjectId("6150565067e3a13244f0a507"),
+    "tim" : [ 
+        {
+            "_id" : "6150549f67e3a13244f0a4ff",
+            "ime" : "Asafa",
+            "prezime" : "Powell",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615054e767e3a13244f0a502",
+            "ime" : "Nickel",
+            "prezime" : "Ashmeade",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615054ba67e3a13244f0a501",
+            "ime" : "Usain",
+            "prezime" : "Bolt",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615054aa67e3a13244f0a500",
+            "ime" : "Yohan",
+            "prezime" : "Blake",
+            "pol" : "muski",
+            "drzava" : "Jamajka",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "drzava" : "Jamajka",
+    "pol" : "muski",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150574267e3a13244f0a50c"),
+    "tim" : [ 
+        {
+            "_id" : "6150573c67e3a13244f0a50b",
+            "ime" : "Asuka",
+            "prezime" : "Tite",
+            "pol" : "muski",
+            "drzava" : "Japan",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150570367e3a13244f0a508",
+            "ime" : "Ryota",
+            "prezime" : "Yamagata",
+            "pol" : "muski",
+            "drzava" : "Japan",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150571767e3a13244f0a509",
+            "ime" : "Shota",
+            "prezime" : "Izuka",
+            "pol" : "muski",
+            "drzava" : "Japan",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150572b67e3a13244f0a50a",
+            "ime" : "Yoshide",
+            "prezime" : "Kiryu",
+            "pol" : "muski",
+            "drzava" : "Japan",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "drzava" : "Japan",
+    "pol" : "muski",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615077fa67e3a13244f0a529"),
+    "tim" : [ 
+        {
+            "_id" : "615077f267e3a13244f0a528",
+            "ime" : "Jack",
+            "prezime" : "Stone",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615077e367e3a13244f0a527",
+            "ime" : "Justin",
+            "prezime" : "Gatling",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615077c767e3a13244f0a525",
+            "ime" : "Tim",
+            "prezime" : "Cook",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615077d567e3a13244f0a526",
+            "ime" : "Tyson",
+            "prezime" : "Gay",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Atletika",
+            "disciplina" : "4x100m štafetno trčanje",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "sport" : "Atletika",
+    "disciplina" : "4x100m štafetno trčanje",
+    "drzava" : "Sjedinjene Američke Države",
+    "pol" : "muski",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150796767e3a13244f0a532"),
+    "tim" : [ 
+        {
+            "_id" : "6150795467e3a13244f0a531",
+            "ime" : "Boban",
+            "prezime" : "Marijanovic",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150794267e3a13244f0a530",
+            "ime" : "Ivan",
+            "prezime" : "Jovic",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150793867e3a13244f0a52f",
+            "ime" : "Milos",
+            "prezime" : "Teodosic",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150792a67e3a13244f0a52e",
+            "ime" : "Nemanja",
+            "prezime" : "Bjelica",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150791e67e3a13244f0a52d",
+            "ime" : "Nikola",
+            "prezime" : "Jokic",
+            "pol" : "muski",
+            "drzava" : "Srbija",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "drzava" : "Srbija",
+    "pol" : "muski",
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615079e567e3a13244f0a538"),
+    "tim" : [ 
+        {
+            "_id" : "615079a267e3a13244f0a534",
+            "ime" : "Andre",
+            "prezime" : "Drummon",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615079e067e3a13244f0a537",
+            "ime" : "Blake",
+            "prezime" : "Griffin",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "6150799767e3a13244f0a533",
+            "ime" : "Lebron",
+            "prezime" : "James",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615079ae67e3a13244f0a535",
+            "ime" : "Paul",
+            "prezime" : "George",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }, 
+        {
+            "_id" : "615079b767e3a13244f0a536",
+            "ime" : "Paul",
+            "prezime" : "Pierce",
+            "pol" : "muski",
+            "drzava" : "Sjedinjene Američke Države",
+            "sport" : "Košarka",
+            "disciplina" : "",
+            "tim" : true,
+            "osvojio" : "",
+            "__v" : 0
+        }
+    ],
+    "sport" : "Košarka",
+    "disciplina" : "",
+    "drzava" : "Sjedinjene Američke Države",
+    "pol" : "muski",
+    "__v" : 0
+}

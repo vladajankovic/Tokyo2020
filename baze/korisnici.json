@@ -1,0 +1,333 @@
+
+{
+    "_id" : ObjectId("613f92bf51a3af8e55c10a88"),
+    "korisnicko_ime" : "vlada",
+    "lozinka" : "admin",
+    "ime" : "Vladimir",
+    "prezime" : "Jankovic",
+    "nacionalnost" : "Srbia",
+    "email" : "vladajankovic1999@gmail.com",
+    "tip_korisnika" : "organizator"
+}
+
+
+{
+    "_id" : ObjectId("61504ef167e3a13244f0a4ed"),
+    "korisnicko_ime" : "vu123",
+    "lozinka" : "vud12A**",
+    "ime" : "Vanja",
+    "prezime" : "Udovicic",
+    "nacionalnost" : "Srbija",
+    "email" : "vu@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61504f9d67e3a13244f0a4ee"),
+    "korisnicko_ime" : "aa123",
+    "lozinka" : "aaa12A**",
+    "ime" : "Addis",
+    "prezime" : "Ababa",
+    "nacionalnost" : "Etiopija",
+    "email" : "aa@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("61504ffe67e3a13244f0a4ef"),
+    "korisnicko_ime" : "kp123",
+    "lozinka" : "kpa12A**",
+    "ime" : "Kampala",
+    "prezime" : "Kampala",
+    "nacionalnost" : "Uganda",
+    "email" : "kp@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150503467e3a13244f0a4f0"),
+    "korisnicko_ime" : "bo123",
+    "lozinka" : "boa12A**",
+    "ime" : "Barak",
+    "prezime" : "Obama",
+    "nacionalnost" : "Sjedinjene Američke Države",
+    "email" : "bo@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150507767e3a13244f0a4f1"),
+    "korisnicko_ime" : "jt123",
+    "lozinka" : "jta12A**",
+    "ime" : "Justin",
+    "prezime" : "Trudeau",
+    "nacionalnost" : "Kanada",
+    "email" : "jt@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("615050e167e3a13244f0a4f2"),
+    "korisnicko_ime" : "nb123",
+    "lozinka" : "nba12A**",
+    "ime" : "Narobi",
+    "prezime" : "Nimao",
+    "nacionalnost" : "Kenija",
+    "email" : "nb@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150511f67e3a13244f0a4f3"),
+    "korisnicko_ime" : "em123",
+    "lozinka" : "ema12A**",
+    "ime" : "Emanuel",
+    "prezime" : "Makron",
+    "nacionalnost" : "Francuska",
+    "email" : "em@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("6150515867e3a13244f0a4f4"),
+    "korisnicko_ime" : "sg123",
+    "lozinka" : "sga12A**",
+    "ime" : "Sergio",
+    "prezime" : "Mattarella",
+    "nacionalnost" : "Italija",
+    "email" : "sg@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("6150519a67e3a13244f0a4f5"),
+    "korisnicko_ime" : "ps123",
+    "lozinka" : "psa12A**",
+    "ime" : "Pedro",
+    "prezime" : "Sanchez",
+    "nacionalnost" : "Španija",
+    "email" : "ps@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("615051c767e3a13244f0a4f6"),
+    "korisnicko_ime" : "bj123",
+    "lozinka" : "bja12A**",
+    "ime" : "Boris",
+    "prezime" : "Johnson",
+    "nacionalnost" : "Velika Britanija",
+    "email" : "bj@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("6150522367e3a13244f0a4f7"),
+    "korisnicko_ime" : "ys123",
+    "lozinka" : "ysa12A**",
+    "ime" : "Yoshihide",
+    "prezime" : "Suga",
+    "nacionalnost" : "Japan",
+    "email" : "ys@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("6150525167e3a13244f0a4f8"),
+    "korisnicko_ime" : "ad123",
+    "lozinka" : "ada12A**",
+    "ime" : "Alexander",
+    "prezime" : "Coro",
+    "nacionalnost" : "Belgija",
+    "email" : "ad@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("6150528c67e3a13244f0a4f9"),
+    "korisnicko_ime" : "sm123",
+    "lozinka" : "sma12A**",
+    "ime" : "Scott",
+    "prezime" : "Morrison",
+    "nacionalnost" : "Australija",
+    "email" : "sm@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("6150537267e3a13244f0a4fa"),
+    "korisnicko_ime" : "ks123",
+    "lozinka" : "ksa12A**",
+    "ime" : "Kingston",
+    "prezime" : "Kong",
+    "nacionalnost" : "Jamajka",
+    "email" : "ks@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("61505be167e3a13244f0a50f"),
+    "korisnicko_ime" : "d1",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "A",
+    "nacionalnost" : "Australija",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("61505bf467e3a13244f0a510"),
+    "korisnicko_ime" : "d2",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "B",
+    "nacionalnost" : "Bahrein",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("61505c0967e3a13244f0a511"),
+    "korisnicko_ime" : "d3",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "C",
+    "nacionalnost" : "Crna Gora",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("61505c1e67e3a13244f0a512"),
+    "korisnicko_ime" : "d4",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "D",
+    "nacionalnost" : "Dominikanska Republika",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("61505c3b67e3a13244f0a513"),
+    "korisnicko_ime" : "d5",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "E",
+    "nacionalnost" : "Egipat",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("61505c5767e3a13244f0a514"),
+    "korisnicko_ime" : "d6",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "F",
+    "nacionalnost" : "Filipini",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("61505c7467e3a13244f0a515"),
+    "korisnicko_ime" : "d7",
+    "lozinka" : "dda12A**",
+    "ime" : "Delegat",
+    "prezime" : "G",
+    "nacionalnost" : "Grčka",
+    "email" : "a@a.com",
+    "tip_korisnika" : "delegat_takmicenja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("6150742167e3a13244f0a521"),
+    "korisnicko_ime" : "am123",
+    "lozinka" : "ama12A**",
+    "ime" : "Angela",
+    "prezime" : "Merkel",
+    "nacionalnost" : "Nemačka",
+    "email" : "am@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("6150744267e3a13244f0a522"),
+    "korisnicko_ime" : "vp123",
+    "lozinka" : "vpa12A**",
+    "ime" : "Vladimir",
+    "prezime" : "Putin",
+    "nacionalnost" : "Rusija",
+    "email" : "vp@gmail.com",
+    "tip_korisnika" : "delegat_vodja",
+    "odobren" : 1,
+    "__v" : 0
+}

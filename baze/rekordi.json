@@ -1,0 +1,186 @@
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dcc"),
+    "disciplina" : "100m trčanje",
+    "rekord" : "9,63s",
+    "sportista" : "Usain Bolt",
+    "nacionalnost" : "Jamajka",
+    "mesto" : "London",
+    "godina" : "2012."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dcf"),
+    "disciplina" : "200m trčanje",
+    "rekord" : "19,30s",
+    "sportista" : "Usain Bolt",
+    "nacionalnost" : "Jamajka",
+    "mesto" : "Peking",
+    "godina" : "2008."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dd2"),
+    "disciplina" : "400m trčanje",
+    "rekord" : "43,03s",
+    "sportista" : "Wayde van Niekerk",
+    "nacionalnost" : "Južnoafrička Republika",
+    "mesto" : "Rio de Žaneiro",
+    "godina" : "2016."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dd5"),
+    "disciplina" : "800m trčanje",
+    "rekord" : "1:40,91s",
+    "sportista" : "David Rudisha",
+    "nacionalnost" : "Kenija",
+    "mesto" : "London",
+    "godina" : "2012."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dd8"),
+    "disciplina" : "5000m trčanje",
+    "rekord" : "12:57,82s",
+    "sportista" : "Kenenisa Bekele",
+    "nacionalnost" : "Etiopija",
+    "mesto" : "Peking",
+    "godina" : "2008."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346ddb"),
+    "disciplina" : "10000m trčanje",
+    "rekord" : "27:01,17s",
+    "sportista" : "Kenenisa Bekele",
+    "nacionalnost" : "Etiopija",
+    "mesto" : "Peking",
+    "godina" : "2008."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dde"),
+    "disciplina" : "Skok u vis",
+    "rekord" : "2,39m",
+    "sportista" : "Charles Austin",
+    "nacionalnost" : "Sjedinjene Američke Države",
+    "mesto" : "Atlanta",
+    "godina" : "1996."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346de1"),
+    "disciplina" : "Skok u dalj",
+    "rekord" : "8,90m",
+    "sportista" : "Bob Bimon",
+    "nacionalnost" : "Sjedinjene Američke Države",
+    "mesto" : "Meksiko Siti",
+    "godina" : "1968."
+}
+
+
+{
+    "_id" : ObjectId("614b4a59d19798a99a346de4"),
+    "disciplina" : "Troskok",
+    "rekord" : "18,09m",
+    "sportista" : "Kenz Harison",
+    "nacionalnost" : "Sjedinjene Američke Države",
+    "mesto" : "Atlanta",
+    "godina" : "1996."
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346de7"),
+    "disciplina" : "Skok s motkom",
+    "rekord" : "6,03m",
+    "sportista" : "Tiago Braz da Silva",
+    "nacionalnost" : "Brazil",
+    "mesto" : "Rio de Žaneiro",
+    "godina" : "2016."
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dea"),
+    "disciplina" : "Bacanje kugle",
+    "rekord" : "22,47m",
+    "sportista" : "Ulf Timerman",
+    "nacionalnost" : "Istočna Nemačka",
+    "mesto" : "Seul",
+    "godina" : "1988."
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346ded"),
+    "disciplina" : "Bacanje diska",
+    "rekord" : "69,89m",
+    "sportista" : "Virgilius Alekna",
+    "nacionalnost" : "Litvanija",
+    "mesto" : "Atina",
+    "godina" : "2004."
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346df0"),
+    "disciplina" : "Bacanje kladiva",
+    "rekord" : "84,80m",
+    "sportista" : "Sergei Litvanov",
+    "nacionalnost" : "Sovjetski Savez",
+    "mesto" : "Seul",
+    "godina" : "1988."
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346df3"),
+    "disciplina" : "Bacanje koplja",
+    "rekord" : "90,57m",
+    "sportista" : "Andreas Torkildsen",
+    "nacionalnost" : "Norveška",
+    "mesto" : "Peking",
+    "godina" : "2008."
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346df6"),
+    "disciplina" : "maraton",
+    "rekord" : "2:06:32s",
+    "sportista" : "Samuel Kamau",
+    "nacionalnost" : "Kenija",
+    "mesto" : "Peking",
+    "godina" : "2008."
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346df9"),
+    "disciplina" : "20km brzo hodanje",
+    "rekord" : "1:18:46s",
+    "sportista" : "Chan Ding",
+    "nacionalnost" : "Kina",
+    "mesto" : "London",
+    "godina" : "2012."
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("614b4a59d19798a99a346dfc"),
+    "disciplina" : "50km brzo hodanje",
+    "rekord" : "3:35:59s",
+    "sportista" : "Sergei Kirdjapkin",
+    "nacionalnost" : "Rusija",
+    "mesto" : "London",
+    "godina" : "2012."
+}

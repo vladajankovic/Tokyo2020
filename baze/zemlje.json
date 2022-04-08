@@ -1,0 +1,1357 @@
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4c1"),
+    "naziv" : "Albanija",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4c4"),
+    "naziv" : "Alžir",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4c7"),
+    "naziv" : "Andora",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4ca"),
+    "naziv" : "Angola",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4cd"),
+    "naziv" : "Antigva i Barbuda",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4d0"),
+    "naziv" : "Argentina",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4d3"),
+    "naziv" : "Australija",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4d6"),
+    "naziv" : "Austrija",
+    "brojSportista" : 0
+}
+
+
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4d9"),
+    "naziv" : "Avganistan",
+    "brojSportista" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4dc"),
+    "naziv" : "Azerbejdžan",
+    "brojSportista" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4df"),
+    "naziv" : "Bahami",
+    "brojSportista" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4e2"),
+    "naziv" : "Bahrein",
+    "brojSportista" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4e5"),
+    "naziv" : "Bangladeš",
+    "brojSportista" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4e8"),
+    "naziv" : "Barbados",
+    "brojSportista" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4eb"),
+    "naziv" : "Belgija",
+    "brojSportista" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4ee"),
+    "naziv" : "Belize",
+    "brojSportista" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4f1"),
+    "naziv" : "Belorusija",
+    "brojSportista" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4f4"),
+    "naziv" : "Benin",
+    "brojSportista" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4f7"),
+    "naziv" : "Bocvana",
+    "brojSportista" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4fa"),
+    "naziv" : "Bolivija",
+    "brojSportista" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b4fd"),
+    "naziv" : "Bosna i Hercegovina",
+    "brojSportista" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b500"),
+    "naziv" : "Brazil",
+    "brojSportista" : 2
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b503"),
+    "naziv" : "Brunej",
+    "brojSportista" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b506"),
+    "naziv" : "Bugarska",
+    "brojSportista" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b509"),
+    "naziv" : "Burkina Faso",
+    "brojSportista" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b50c"),
+    "naziv" : "Burundi",
+    "brojSportista" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b50f"),
+    "naziv" : "Butan",
+    "brojSportista" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b512"),
+    "naziv" : "Centralnoafrička republika",
+    "brojSportista" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b515"),
+    "naziv" : "Crna Gora",
+    "brojSportista" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b518"),
+    "naziv" : "Čad",
+    "brojSportista" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b51b"),
+    "naziv" : "Češka",
+    "brojSportista" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b51e"),
+    "naziv" : "Čile",
+    "brojSportista" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b521"),
+    "naziv" : "Danska",
+    "brojSportista" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b524"),
+    "naziv" : "Dominika",
+    "brojSportista" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b527"),
+    "naziv" : "Dominikanska Republika",
+    "brojSportista" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b52a"),
+    "naziv" : "DR Kongo",
+    "brojSportista" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b52d"),
+    "naziv" : "Džibuti",
+    "brojSportista" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b530"),
+    "naziv" : "Egipat",
+    "brojSportista" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b533"),
+    "naziv" : "Ekvador",
+    "brojSportista" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b536"),
+    "naziv" : "Ekvatorijalna Gvineja",
+    "brojSportista" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b539"),
+    "naziv" : "El Salvador",
+    "brojSportista" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b53c"),
+    "naziv" : "Eritreja",
+    "brojSportista" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b53f"),
+    "naziv" : "Estonija",
+    "brojSportista" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b542"),
+    "naziv" : "Etiopija",
+    "brojSportista" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b545"),
+    "naziv" : "Fidži",
+    "brojSportista" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b548"),
+    "naziv" : "Filipini",
+    "brojSportista" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b54b"),
+    "naziv" : "Finska",
+    "brojSportista" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b54e"),
+    "naziv" : "Francuska",
+    "brojSportista" : 2
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b551"),
+    "naziv" : "Gabon",
+    "brojSportista" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b554"),
+    "naziv" : "Gambija",
+    "brojSportista" : 0
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b557"),
+    "naziv" : "Gana",
+    "brojSportista" : 0
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b55a"),
+    "naziv" : "Grčka",
+    "brojSportista" : 0
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b55d"),
+    "naziv" : "Grenada",
+    "brojSportista" : 0
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b560"),
+    "naziv" : "Gruzija",
+    "brojSportista" : 0
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b563"),
+    "naziv" : "Gvajana",
+    "brojSportista" : 0
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b566"),
+    "naziv" : "Gvatemala",
+    "brojSportista" : 0
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b569"),
+    "naziv" : "Gvineja Bisau",
+    "brojSportista" : 0
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b56c"),
+    "naziv" : "Gvineja",
+    "brojSportista" : 0
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b56f"),
+    "naziv" : "Haiti",
+    "brojSportista" : 0
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b572"),
+    "naziv" : "Holandija",
+    "brojSportista" : 0
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b575"),
+    "naziv" : "Honduras",
+    "brojSportista" : 0
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b578"),
+    "naziv" : "Hrvatska",
+    "brojSportista" : 2
+}
+
+/* 63 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b57b"),
+    "naziv" : "Indija",
+    "brojSportista" : 0
+}
+
+/* 64 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b57e"),
+    "naziv" : "Indonezija",
+    "brojSportista" : 0
+}
+
+/* 65 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b581"),
+    "naziv" : "Irak",
+    "brojSportista" : 0
+}
+
+/* 66 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b584"),
+    "naziv" : "Iran",
+    "brojSportista" : 0
+}
+
+/* 67 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b587"),
+    "naziv" : "Irska",
+    "brojSportista" : 0
+}
+
+/* 68 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b58a"),
+    "naziv" : "Island",
+    "brojSportista" : 0
+}
+
+/* 69 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b58d"),
+    "naziv" : "Istočni Timor",
+    "brojSportista" : 0
+}
+
+/* 70 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b590"),
+    "naziv" : "Italija",
+    "brojSportista" : 0
+}
+
+/* 71 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b593"),
+    "naziv" : "Izrael",
+    "brojSportista" : 0
+}
+
+/* 72 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b596"),
+    "naziv" : "Jamajka",
+    "brojSportista" : 6
+}
+
+/* 73 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b599"),
+    "naziv" : "Japan",
+    "brojSportista" : 5
+}
+
+/* 74 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b59c"),
+    "naziv" : "Jemen",
+    "brojSportista" : 0
+}
+
+/* 75 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b59f"),
+    "naziv" : "Jermenija",
+    "brojSportista" : 0
+}
+
+/* 76 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5a2"),
+    "naziv" : "Jordan",
+    "brojSportista" : 0
+}
+
+/* 77 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5a5"),
+    "naziv" : "Južna Koreja",
+    "brojSportista" : 0
+}
+
+/* 78 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5a8"),
+    "naziv" : "Južni Sudan",
+    "brojSportista" : 0
+}
+
+/* 79 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5ab"),
+    "naziv" : "Južnoafrička Republika",
+    "brojSportista" : 1
+}
+
+/* 80 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5ae"),
+    "naziv" : "Kambodža",
+    "brojSportista" : 0
+}
+
+/* 81 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5b1"),
+    "naziv" : "Kamerun",
+    "brojSportista" : 0
+}
+
+/* 82 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5b4"),
+    "naziv" : "Kanada",
+    "brojSportista" : 1
+}
+
+/* 83 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5b7"),
+    "naziv" : "Katar",
+    "brojSportista" : 0
+}
+
+/* 84 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5ba"),
+    "naziv" : "Kazahstan",
+    "brojSportista" : 0
+}
+
+/* 85 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5bd"),
+    "naziv" : "Kenija",
+    "brojSportista" : 0
+}
+
+/* 86 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5c0"),
+    "naziv" : "Kina",
+    "brojSportista" : 0
+}
+
+/* 87 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5c3"),
+    "naziv" : "Kipar",
+    "brojSportista" : 0
+}
+
+/* 88 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5c6"),
+    "naziv" : "Kirgistan",
+    "brojSportista" : 0
+}
+
+/* 89 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5c9"),
+    "naziv" : "Kiribati",
+    "brojSportista" : 0
+}
+
+/* 90 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5cc"),
+    "naziv" : "Kolumbija",
+    "brojSportista" : 0
+}
+
+/* 91 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5cf"),
+    "naziv" : "Komori",
+    "brojSportista" : 0
+}
+
+/* 92 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5d2"),
+    "naziv" : "Kongo",
+    "brojSportista" : 0
+}
+
+/* 93 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5d5"),
+    "naziv" : "Kostarika",
+    "brojSportista" : 0
+}
+
+/* 94 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5d8"),
+    "naziv" : "Kuba",
+    "brojSportista" : 0
+}
+
+/* 95 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5db"),
+    "naziv" : "Kuvajt",
+    "brojSportista" : 0
+}
+
+/* 96 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5de"),
+    "naziv" : "Laos",
+    "brojSportista" : 0
+}
+
+/* 97 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5e1"),
+    "naziv" : "Leban",
+    "brojSportista" : 0
+}
+
+/* 98 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5e4"),
+    "naziv" : "Lesoto",
+    "brojSportista" : 0
+}
+
+/* 99 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5e7"),
+    "naziv" : "Letonija",
+    "brojSportista" : 0
+}
+
+/* 100 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5ea"),
+    "naziv" : "Liberija",
+    "brojSportista" : 0
+}
+
+/* 101 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5ed"),
+    "naziv" : "Libija",
+    "brojSportista" : 0
+}
+
+/* 102 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5f0"),
+    "naziv" : "Lihtenštajn",
+    "brojSportista" : 0
+}
+
+/* 103 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5f3"),
+    "naziv" : "Litvanija",
+    "brojSportista" : 0
+}
+
+/* 104 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5f6"),
+    "naziv" : "Luksemburg",
+    "brojSportista" : 0
+}
+
+/* 105 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5f9"),
+    "naziv" : "Madagaskar",
+    "brojSportista" : 0
+}
+
+/* 106 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5fc"),
+    "naziv" : "Mađarska",
+    "brojSportista" : 1
+}
+
+/* 107 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b5ff"),
+    "naziv" : "Malavi",
+    "brojSportista" : 0
+}
+
+/* 108 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b602"),
+    "naziv" : "Maldivi",
+    "brojSportista" : 0
+}
+
+/* 109 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b605"),
+    "naziv" : "Malezija",
+    "brojSportista" : 0
+}
+
+/* 110 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b608"),
+    "naziv" : "Mali",
+    "brojSportista" : 0
+}
+
+/* 111 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b60b"),
+    "naziv" : "Malta",
+    "brojSportista" : 0
+}
+
+/* 112 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b60e"),
+    "naziv" : "Maroko",
+    "brojSportista" : 0
+}
+
+/* 113 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b611"),
+    "naziv" : "Maršalova ostrva",
+    "brojSportista" : 0
+}
+
+/* 114 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b614"),
+    "naziv" : "Mauricijus",
+    "brojSportista" : 0
+}
+
+/* 115 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b617"),
+    "naziv" : "Mauritanija",
+    "brojSportista" : 0
+}
+
+/* 116 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b61a"),
+    "naziv" : "Meksiko",
+    "brojSportista" : 0
+}
+
+/* 117 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b61d"),
+    "naziv" : "Mijanmar",
+    "brojSportista" : 0
+}
+
+/* 118 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b620"),
+    "naziv" : "Mikronezija",
+    "brojSportista" : 0
+}
+
+/* 119 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b623"),
+    "naziv" : "Moldavija",
+    "brojSportista" : 0
+}
+
+/* 120 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b626"),
+    "naziv" : "Monako",
+    "brojSportista" : 0
+}
+
+/* 121 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b629"),
+    "naziv" : "Mongolija",
+    "brojSportista" : 0
+}
+
+/* 122 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b62c"),
+    "naziv" : "Mozambija",
+    "brojSportista" : 0
+}
+
+/* 123 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b62f"),
+    "naziv" : "Namibija",
+    "brojSportista" : 0
+}
+
+/* 124 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b632"),
+    "naziv" : "Nauru",
+    "brojSportista" : 0
+}
+
+/* 125 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b635"),
+    "naziv" : "Nemačka",
+    "brojSportista" : 1
+}
+
+/* 126 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b638"),
+    "naziv" : "Nepal",
+    "brojSportista" : 0
+}
+
+/* 127 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b63b"),
+    "naziv" : "Niger",
+    "brojSportista" : 0
+}
+
+/* 128 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b63e"),
+    "naziv" : "Nigerija",
+    "brojSportista" : 0
+}
+
+/* 129 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b641"),
+    "naziv" : "Nikaragva",
+    "brojSportista" : 0
+}
+
+/* 130 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b644"),
+    "naziv" : "Norveška",
+    "brojSportista" : 1
+}
+
+/* 131 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b647"),
+    "naziv" : "Novi Zeland",
+    "brojSportista" : 0
+}
+
+/* 132 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b64a"),
+    "naziv" : "Obala Slonovače",
+    "brojSportista" : 0
+}
+
+/* 133 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b64d"),
+    "naziv" : "Oman",
+    "brojSportista" : 0
+}
+
+/* 134 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b650"),
+    "naziv" : "Pakistan",
+    "brojSportista" : 0
+}
+
+/* 135 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b653"),
+    "naziv" : "Palau",
+    "brojSportista" : 0
+}
+
+/* 136 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b656"),
+    "naziv" : "Palestina",
+    "brojSportista" : 0
+}
+
+/* 137 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b659"),
+    "naziv" : "Panama",
+    "brojSportista" : 0
+}
+
+/* 138 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b65c"),
+    "naziv" : "Papua Nova Gvineja",
+    "brojSportista" : 0
+}
+
+/* 139 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b65f"),
+    "naziv" : "Paragvaj",
+    "brojSportista" : 0
+}
+
+/* 140 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b662"),
+    "naziv" : "Peru",
+    "brojSportista" : 0
+}
+
+/* 141 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b665"),
+    "naziv" : "Poljska",
+    "brojSportista" : 0
+}
+
+/* 142 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b668"),
+    "naziv" : "Portugal",
+    "brojSportista" : 0
+}
+
+/* 143 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b66b"),
+    "naziv" : "Ruanda",
+    "brojSportista" : 0
+}
+
+/* 144 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b66e"),
+    "naziv" : "Rumunija",
+    "brojSportista" : 1
+}
+
+/* 145 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b671"),
+    "naziv" : "Rusija",
+    "brojSportista" : 4
+}
+
+/* 146 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b674"),
+    "naziv" : "Samoa",
+    "brojSportista" : 0
+}
+
+/* 147 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b67a"),
+    "naziv" : "San Marino",
+    "brojSportista" : 0
+}
+
+/* 148 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b67d"),
+    "naziv" : "Sao Tome i Principe",
+    "brojSportista" : 0
+}
+
+/* 149 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b680"),
+    "naziv" : "Saudijska Arabija",
+    "brojSportista" : 0
+}
+
+/* 150 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b683"),
+    "naziv" : "Seint Kits i Nevis",
+    "brojSportista" : 0
+}
+
+/* 151 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b686"),
+    "naziv" : "Sejšeli",
+    "brojSportista" : 0
+}
+
+/* 152 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b689"),
+    "naziv" : "Senegal",
+    "brojSportista" : 0
+}
+
+/* 153 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b68c"),
+    "naziv" : "Severna Koreja",
+    "brojSportista" : 0
+}
+
+/* 154 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b68f"),
+    "naziv" : "Severna Makedonija",
+    "brojSportista" : 0
+}
+
+/* 155 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b692"),
+    "naziv" : "Sijera Leone",
+    "brojSportista" : 0
+}
+
+/* 156 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b695"),
+    "naziv" : "Singapur",
+    "brojSportista" : 0
+}
+
+/* 157 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b698"),
+    "naziv" : "Sirija",
+    "brojSportista" : 0
+}
+
+/* 158 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b69b"),
+    "naziv" : "Sjedinjene Američke Države",
+    "brojSportista" : 11
+}
+
+/* 159 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b69e"),
+    "naziv" : "Slovačka",
+    "brojSportista" : 0
+}
+
+/* 160 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6a1"),
+    "naziv" : "Slovenija",
+    "brojSportista" : 0
+}
+
+/* 161 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6a4"),
+    "naziv" : "Solomonska Ostrva",
+    "brojSportista" : 0
+}
+
+/* 162 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6a7"),
+    "naziv" : "Somalija",
+    "brojSportista" : 0
+}
+
+/* 163 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6aa"),
+    "naziv" : "Srbija",
+    "brojSportista" : 11
+}
+
+/* 164 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6ad"),
+    "naziv" : "Sudan",
+    "brojSportista" : 0
+}
+
+/* 165 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6b0"),
+    "naziv" : "Surinam",
+    "brojSportista" : 0
+}
+
+/* 166 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6b3"),
+    "naziv" : "Svazilend",
+    "brojSportista" : 0
+}
+
+/* 167 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6b6"),
+    "naziv" : "Sveta Lucija",
+    "brojSportista" : 0
+}
+
+/* 168 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6b9"),
+    "naziv" : "Sveti Vincent i Grenadini",
+    "brojSportista" : 0
+}
+
+/* 169 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6bc"),
+    "naziv" : "Španija",
+    "brojSportista" : 1
+}
+
+/* 170 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6bf"),
+    "naziv" : "Šri Lanka",
+    "brojSportista" : 0
+}
+
+/* 171 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6c2"),
+    "naziv" : "Švajcarska",
+    "brojSportista" : 1
+}
+
+/* 172 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6c5"),
+    "naziv" : "Švedska",
+    "brojSportista" : 0
+}
+
+/* 173 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6c8"),
+    "naziv" : "Tadžikistan",
+    "brojSportista" : 0
+}
+
+/* 174 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6cb"),
+    "naziv" : "Tailand",
+    "brojSportista" : 0
+}
+
+/* 175 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6ce"),
+    "naziv" : "Tanzanija",
+    "brojSportista" : 0
+}
+
+/* 176 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6d1"),
+    "naziv" : "Togo",
+    "brojSportista" : 0
+}
+
+/* 177 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6d4"),
+    "naziv" : "Tonga",
+    "brojSportista" : 0
+}
+
+/* 178 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6d7"),
+    "naziv" : "Trinidad i Tobago",
+    "brojSportista" : 0
+}
+
+/* 179 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6da"),
+    "naziv" : "Tunis",
+    "brojSportista" : 0
+}
+
+/* 180 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6dd"),
+    "naziv" : "Turkmenistan",
+    "brojSportista" : 0
+}
+
+/* 181 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6e0"),
+    "naziv" : "Turska",
+    "brojSportista" : 0
+}
+
+/* 182 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6e3"),
+    "naziv" : "Tuvalu",
+    "brojSportista" : 0
+}
+
+/* 183 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6e6"),
+    "naziv" : "Uganda",
+    "brojSportista" : 0
+}
+
+/* 184 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6e9"),
+    "naziv" : "Ujedinjeni Arapski Emirati",
+    "brojSportista" : 0
+}
+
+/* 185 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6ec"),
+    "naziv" : "Ukrajina",
+    "brojSportista" : 0
+}
+
+/* 186 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6ef"),
+    "naziv" : "Urugvaj",
+    "brojSportista" : 0
+}
+
+/* 187 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6f2"),
+    "naziv" : "Uzbekistan",
+    "brojSportista" : 0
+}
+
+/* 188 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6f5"),
+    "naziv" : "Vanuatu",
+    "brojSportista" : 0
+}
+
+/* 189 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6f8"),
+    "naziv" : "Velika Britanija",
+    "brojSportista" : 2
+}
+
+/* 190 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6fb"),
+    "naziv" : "Venecuela",
+    "brojSportista" : 0
+}
+
+/* 191 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b6fe"),
+    "naziv" : "Vijetnam",
+    "brojSportista" : 0
+}
+
+/* 192 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b701"),
+    "naziv" : "Zabmija",
+    "brojSportista" : 0
+}
+
+/* 193 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b704"),
+    "naziv" : "Zelenortska ostrva",
+    "brojSportista" : 0
+}
+
+/* 194 */
+{
+    "_id" : ObjectId("613c8f2a51a3af8e55c0b707"),
+    "naziv" : "Zimbabve",
+    "brojSportista" : 0
+}
