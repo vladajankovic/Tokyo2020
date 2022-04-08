@@ -5,8 +5,8 @@ Tehnologija koja se koristila u izradi ovog projekta je **MEAN Stack**:
 > M - mongoDB\
 > E - express\
 > A - Angular\
-> N - Node.js\
-\
+> N - Node.js
+
 ![](https://github.com/vladajankovic/images/blob/master/4.PNG)\
 \
 Da bi se projekat pokrenuo na racunaru, potrebno je da se:
