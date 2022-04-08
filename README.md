@@ -19,7 +19,7 @@ ng new <naziv_projekta>
 Angular routing (y/N)? y
 Stylesheet: CSS
 ```
-![ng_new](https://drive.google.com/file/d/13by6PHNN6GTyQaknIKl6s-kSr3yyyV9j/view?usp=sharing)\
+![ng_new](https://github.com/vladajankovic/images/blob/master/1.PNG)\
 Posle malo vremena napravice se gotov angular projekat. Sad treba da se folder ***src*** u projektu zameni sa folderom src iz zipovanog fajla.\
 Raspakovani folder backend smestiti na istoj lokaciji kao i angular projekat, npr: 
 ```
@@ -30,5 +30,28 @@ Pre nego sto se projekat pokrene potrebno je napuniti bazu sa podacima. Aplikaci
 Nakon otvaranja Robo 3T, pravi se nova konekcija sa bazom pritiskom na dugme _File>Connect... (Ctrl + N)_. \
 U novo-otvorenom prozoru se noca konekcija pravi kad se klikne na _Create_. \
 ***Jedino je bitno da se za adresu konekcije stavi ```localhost:27017``` za uspesno povezivanje***\
-Radi provere konekcije, postoji dugme _Test_ i ako je sve uredu klikne se na dugme _Save_, pa nakon toga izabere novokreirana konekcija i klikne dugme _Connect_.
-Desni klik na _New Connection>Create Database_ i staviti ime ***tokyo2020***. Svaka baza ima 3 foldera, a jedan folder se zove _Collections_. Desnim klikom na taj folder pojavljuje se opcija za kreiranjem nove kolekcije. 
+Radi provere konekcije, postoji dugme _Test_ i ako je sve uredu klikne se na dugme _Save_, pa nakon toga izabere novokreirana konekcija i klikne dugme _Connect_.\
+\
+![db](https://github.com/vladajankovic/images/blob/master/2.PNG)\
+\
+Desni klik na _New Connection>Create Database_ i staviti ime ***tokyo2020***. Svaka baza ima 3 foldera, a jedan folder se zove _Collections_. Desnim klikom na taj folder pojavljuje se opcija za kreiranjem nove kolekcije. \
+U folderu baze sa repozitorijuma se nalaze JSON fajlovi kolekcija koje treba uneti u bazu tokyo2020. Prvo se naprave sve kolekcije sa istim nazivima kao JSON fajlovi
+i te kolekcije su inicijalno prazne. Desni klik na kolekciju otvara padajuci meni gde treba da se izabere opcija _Insert Document..._ i u novom prozoru treba prekopirati sav sadrzaj iz istoimenog JSON fajla.\
+\
+![](https://github.com/vladajankovic/images/blob/master/3.PNG)\
+\
+Postoji dugme za Validaciju koje proverava ispravnost JSON sintakse i dugme _Save_ za cuvanje izmena. Ovaj postupak treba primeniti na sve  preostale kolekcije.\
+Nakon sto je napunjena baza podacima, moze se preci u poslednji korak.\
+Za pokretanje backend dela projekta, potrebno je pozicionirati se u folder ```...\backend```, otvoriti komandnu liniju iz tog foldera i ukuciati dve komande jednu za drugom:\
+\
+```
+...\backend> tsc
+...\backend> npm run serve
+```
+\
+Za pokretanje frontend dela projekta, potrebno je pozicionirati se u folder ```...\<naziv_projekta>```, otvoriti komandnu liniju iz tog foldera i ukuciati sledecu komandu:\
+\
+```
+...\naziv_projekta> ng serve --open
+```
+Ako nema gresaka pri pokretanju, u podrazumevanom browser-u ce se otvoriti veb stranica projekta.
