@@ -1,8 +1,14 @@
 # Tokyo2020
 
 Tokyo2020 je skolski projekat na predmetu "Programiranje internet aplikacija", koji simulira zvanicni sajt Olimpijskih Igara u Tokiju 2021.
-Tehnologija koja se koristila u izradi ovog projekta je **MEAN Stack** (mongoDB, express, node.js, angular).
-
+Tehnologija koja se koristila u izradi ovog projekta je **MEAN Stack**:
+> M - mongoDB\
+> E - express\
+> A - Angular\
+> N - Node.js\
+\
+![](https://github.com/vladajankovic/images/blob/master/4.PNG)\
+\
 Da bi se projekat pokrenuo na racunaru, potrebno je da se:
 > 1. Instalira **Node.js** sa zvanicnog sajta: https://nodejs.org/en/
 >     - uz instalaciju Node.js-a dolazi i **Node package manager - npm** u nastavku.
